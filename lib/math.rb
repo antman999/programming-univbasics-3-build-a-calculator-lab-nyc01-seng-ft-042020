@@ -22,7 +22,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  square = cmath.sqrt(num)
+  square = Math.sqrt(num)
   puts square
 
 end
